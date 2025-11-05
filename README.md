@@ -27,10 +27,10 @@ python main.py
 ## [Exemplo]
 
 origem = r"C:\Users\Downloads"
-destino = r"C:\Users\Documentos\libraryPDF"
-organizar_pdfs(origem, destino)
 
-text
+destino = r"C:\Users\Documentos\libraryPDF"
+
+organizar_pdfs(origem, destino)
 
 ## [Observações]
 
