@@ -18,6 +18,6 @@ def organizar_pdfs(diretorio_origem, diretorio_destino):
             print(f"Movido: {arquivo} -> {diretorio_destino}")
 
 if __name__ == "__main__":
-    origem = r"C:\Users\windows 10\Downloads"
-    destino = r"C:\Users\windows 10\OneDrive\Documentos\libraryPDF"
+    origem = r"" #caminho de origem
+    destino = r"" #destino 
     organizar_pdfs(origem, destino)
